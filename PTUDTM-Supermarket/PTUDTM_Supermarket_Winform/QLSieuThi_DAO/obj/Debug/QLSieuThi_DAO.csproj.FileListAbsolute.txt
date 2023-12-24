@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\Github_VNDT\PTUDTM-Supermarket-Winform\PTUDTM_Supermarket_Winform\QLSieuThi_DAO\bin\Debug\QLSieuThi_DAO.dll.config
+C:\Users\PC\Documents\Github_VNDT\PTUDTM-Supermarket-Winform\PTUDTM_Supermarket_Winform\QLSieuThi_DAO\bin\Debug\QLSieuThi_DAO.dll
+C:\Users\PC\Documents\Github_VNDT\PTUDTM-Supermarket-Winform\PTUDTM_Supermarket_Winform\QLSieuThi_DAO\bin\Debug\QLSieuThi_DAO.pdb
+C:\Users\PC\Documents\Github_VNDT\PTUDTM-Supermarket-Winform\PTUDTM_Supermarket_Winform\QLSieuThi_DAO\obj\Debug\QLSieuThi_DAO.dll
+C:\Users\PC\Documents\Github_VNDT\PTUDTM-Supermarket-Winform\PTUDTM_Supermarket_Winform\QLSieuThi_DAO\obj\Debug\QLSieuThi_DAO.pdb
+C:\Users\PC\Documents\Github_VNDT\PTUDTM-Supermarket-Winform\PTUDTM_Supermarket_Winform\QLSieuThi_DAO\bin\Debug\EntityFramework.dll
+C:\Users\PC\Documents\Github_VNDT\PTUDTM-Supermarket-Winform\PTUDTM_Supermarket_Winform\QLSieuThi_DAO\bin\Debug\EntityFramework.xml
+C:\Users\PC\Documents\Github_VNDT\PTUDTM-Supermarket-Winform\PTUDTM_Supermarket_Winform\QLSieuThi_DAO\obj\Debug\QLSieuThi_DAO.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Github_VNDT\PTUDTM-Supermarket-Winform\PTUDTM_Supermarket_Winform\QLSieuThi_DAO\obj\Debug\QLSieuThi_DAO.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Github_VNDT\PTUDTM-Supermarket-Winform\PTUDTM_Supermarket_Winform\QLSieuThi_DAO\obj\Debug\QLSieuThi_DAO.csproj.CopyComplete
